@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639422410de041ef90046436f5300996, type: 3}
+  m_Name: Backpack
+  m_EditorClassIdentifier: 
+  Animations:
+  - Animation: {fileID: 7400000, guid: a2dcae2b2b213734cb7328363d260664, type: 2}
+    Direction: {x: 0, y: -1}
+  - Animation: {fileID: 7400000, guid: 07544c6961b24e344b90335a495d5cc4, type: 2}
+    Direction: {x: -1, y: 0}
+  - Animation: {fileID: 7400000, guid: bb4e30c742b5ce343a389fb01add33bc, type: 2}
+    Direction: {x: 0, y: 1}
+  - Animation: {fileID: 7400000, guid: 53f0c0a60c27b8747ac163518e7dca20, type: 2}
+    Direction: {x: 1, y: 0}
+  - Animation: {fileID: 7400000, guid: 588d602cfd428174081d84265086d571, type: 2}
+    Direction: {x: -1, y: -1}
+  - Animation: {fileID: 7400000, guid: 4bdd7f25dd221a44d968379606ed56e7, type: 2}
+    Direction: {x: -1, y: 1}
+  - Animation: {fileID: 7400000, guid: 46e5f10d731a4334db8042fe2a22b351, type: 2}
+    Direction: {x: 1, y: 1}
+  - Animation: {fileID: 7400000, guid: 8c0ab110c1ad8b949a62b36cf5f1214a, type: 2}
+    Direction: {x: 1, y: -1}

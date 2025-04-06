@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639422410de041ef90046436f5300996, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  Animations:
+  - Clip: {fileID: 7400000, guid: 7d2cab7ee7b567043bf6585f8725e525, type: 2}
+    Direction: {x: 0, y: -1}
+    Flip: 0
+  - Clip: {fileID: 7400000, guid: 072159801a10b3d4381abb8314c44b96, type: 2}
+    Direction: {x: -1, y: 0}
+    Flip: 1
+  - Clip: {fileID: 7400000, guid: cbb7a66a20d961646a002efbad2c169d, type: 2}
+    Direction: {x: 0, y: 1}
+    Flip: 0
+  - Clip: {fileID: 7400000, guid: 072159801a10b3d4381abb8314c44b96, type: 2}
+    Direction: {x: 1, y: 0}
+    Flip: 0
+  - Clip: {fileID: 7400000, guid: 7d2cab7ee7b567043bf6585f8725e525, type: 2}
+    Direction: {x: -1, y: -1}
+    Flip: 1
+  - Clip: {fileID: 7400000, guid: 0d86101787fbdef4eb6b3ebe2a0d5f03, type: 2}
+    Direction: {x: -1, y: 1}
+    Flip: 1
+  - Clip: {fileID: 7400000, guid: 0d86101787fbdef4eb6b3ebe2a0d5f03, type: 2}
+    Direction: {x: 1, y: 1}
+    Flip: 0
+  - Clip: {fileID: 7400000, guid: 7d2cab7ee7b567043bf6585f8725e525, type: 2}
+    Direction: {x: 1, y: -1}
+    Flip: 0
